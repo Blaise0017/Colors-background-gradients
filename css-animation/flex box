@@ -1,0 +1,38 @@
+  animation-name: colorchange;
+            animation-duration: 5s;
+            animation-iteration-count: 3;
+            animation-direction: reverse;*/
+        }
+        /*
+        @keyframes colorchange {
+          from  {background-color: blueviolet;}
+           to {background-color:blue}
+        }
+        @keyframes colorchange {
+            0% {background-color: red;left: 0px;top: 0px;}
+            25% {background-color: bisque;left: 200px;top: 0px;}
+            50% {background-color: yellow;left: 200px;top: 200px;}
+            75% {background-color: aqua;left: 0px;top: 200px;}
+            100% {background-color: green;left: 0px;top: 0px;}
+        }*/
+        article{
+            column-count: 3;
+            column-gap: 40px;
+            /*
+            column-rule-style: solid;
+            column-width: 2px;
+            column-rule-color: coral;*/
+            column-rule: 2px solid coral;
+        }
+        article h1{
+            column-span: all;
+        }
+        .textbox1{
+            border: 2px solid;
+            padding:20px;
+            width: 300px;
+            overflow: auto;
+            resize: both;
+        }
+
+    </style>
