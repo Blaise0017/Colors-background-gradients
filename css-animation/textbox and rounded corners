@@ -1,0 +1,29 @@
+<body>
+    <div id="shape1">rounded corners</div>
+    <br>
+    <div id="shape2">rounded corners</div>
+    <br>
+    <div id="shape3">rounded corners</div><br>
+    <img id="img" src="image.jpg"> 
+    <br>
+    <div id="image-border">this uses an image border</div>
+    <br>
+    <div id="my-bg">
+    <h1>welcome</h1>
+    <p>I started learning how to code when i was 19 yearz old because i wanted to create my own Website and also make my own video game.Over time i have gained a great experience designing and developing mobile and web application.</p>
+    <p>I started learning how to code when i was 19 yearz old because i wanted to create my own Website and also make my own video game.Over time i have gained a great experience designing and developing mobile and web application.</p>
+    </div>
+    <br>
+    
+    <div class="box1"></div>
+    <div class="box2"></div>
+    <br><br>
+
+    <article>
+        <h1>Article title</h1>
+        I started learning how to code when i was 19 yearz old because i wanted to create my own Website and also make my own video game.Over time i have gained a great experience designing and developing mobile and web applicationI started learning how to code when i was 19 yearz old because i wanted to create my own Website and also make my own video game.Over time i have gained a great experience designing and developing mobile and web application
+    </article>
+    <br>
+    <div class="textbox1">resize</div>
+</body>
+</html>
